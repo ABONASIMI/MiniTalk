@@ -300,8 +300,3 @@ The project logic, file structure, and behavior are based on the actual code wri
 * **Login:** `mnasimi`
 * **Project:** `minitalk`
 * **School:** 42
-
-```
-
-I can also make you a second version that is even more “42-evaluator style” and shorter, if you want.
-```
